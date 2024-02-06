@@ -1,4 +1,4 @@
-- 👋 Hola, soy @dsarrion (David Sarrión).
+- 👋 Hola, soy @dsarrion => David Sarrión.
 - 👀 Soy Desarrollador Web Full Stack.
 - 🌱 Actualmente estoy aprendiendo nuevas tecnologías para ser Full Stack bien formado.
 - 💞️ Me gustaria colaborar en algún proyecto interesante.
