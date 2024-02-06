@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @dsarrion (David Sarrión).
-- 👀 I’m Web Developer Full Stack.
-- 🌱 I am currently learning new technologies to be a well trained full stack.
-- 💞️ I am looking to collaborate in some interesting project.
-- 📫 You can contact me through my e-mail address (samidas@msn.com).
+- 👋 Hola, soy @dsarrion (David Sarrión).
+- 👀 Soy Desarrollador Web Full Stack.
+- 🌱 Actualmente estoy aprendiendo nuevas tecnologías para ser Full Stack bien formado.
+- 💞️ Me gustaria colaborar en algún proyecto interesante.
+- 📫 Puede ponerse en contacto conmigo a través de mi dirección de correo electrónico => samidas@msn.com.
 
 <!---
 dsarrion/dsarrion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
