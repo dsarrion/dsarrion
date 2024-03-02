@@ -1,6 +1,6 @@
 - 👋 Hola, soy @dsarrion => David Sarrión.
 - 👀 Soy Desarrollador Web Full Stack.
-- 🌱 Actualmente estoy aprendiendo nuevas tecnologías para ser Full Stack bien formado.
+- 🌱 En continuo aprendizaje para ser un Full Stack bien formado.
 - 💞️ Me gustaria colaborar en algún proyecto interesante.
 - 📫 Puede ponerse en contacto conmigo a través de mi dirección de correo electrónico => samidas@msn.com.
 
