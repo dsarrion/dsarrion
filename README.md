@@ -1,3 +1,5 @@
+![Foto proyecto](/cap_dj.jpg)
+
 - 👋 Hola, soy @dsarrion => David Sarrión.
 - 👀 Desarrollador Web Full Stack.
 - 🌱 Estoy en continuo aprendizaje para ser Full Stack bien formado.
