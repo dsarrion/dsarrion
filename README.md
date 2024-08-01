@@ -2,7 +2,10 @@
 
 - 👋 Hola, soy @dsarrion => David Sarrión.
 - 👀 Desarrollador Web Full Stack.
-- 🌱 Estoy en continuo aprendizaje para ser Full Stack bien formado.
+- 🌱 Siempre en continuo aprendizaje para estar al dia de la tecnología.
+- 📚​ **Lenguajes**: Html, CSS, JavaScript, TypeScript, PHP - **Frameworks**: Angular, Laravel, Tailwind, Astro.
+- ​​🗂️​ Buen manejo de base de datos SQL.
+- ​🛠️​ Adapto proyectos Web a aplicacion Android con Ionic.
 - 💞️ Me gustaria colaborar en algún proyecto interesante.
 - 📫 Contacta conmigo a través de mi dirección de correo electrónico => samidas86@gmail.com.
 
